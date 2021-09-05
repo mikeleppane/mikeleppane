@@ -1,9 +1,9 @@
 ### Hi there 👋. My name is Mikko.
 
+> *\"I'm not a great programmer; I'm just a good programmer with great habits.\"*  -Kent Beck
 
 ## I'm a Husband, Father and Developer!!
-
-
+I'm Mikko from Finland, and I do test automation development (Python&RobotFramework). I really enjoy learning languages and frameworks like React or Rust. I'm also a big advocate on Clean Code. Currently, I'm deeply focused on learning full stack development. In addition, the future plan is to get a solid grasp on AWS and Rust programming language. 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
