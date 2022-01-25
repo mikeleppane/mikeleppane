@@ -16,6 +16,7 @@ I'm Mikko from Finland, and I do test automation development (Python&RobotFramew
 [<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][go]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][c++]
 [<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />][rust]
+[<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][matlab]
 
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
@@ -43,6 +44,7 @@ I'm Mikko from Finland, and I do test automation development (Python&RobotFramew
 [go]: https://golang.org/
 [c++]: https://isocpp.org/
 [rust]: https://www.rust-lang.org/
+[matlab]: https://www.mathworks.com/
 [react]: https://reactjs.org/
 [nodejs]: https://nodejs.org/en/
 [mongodb]: https://www.mongodb.com/
