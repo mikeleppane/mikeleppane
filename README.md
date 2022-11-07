@@ -2,8 +2,7 @@
 
 > *\"I'm not a great programmer; I'm just a good programmer with great habits.\"*  -Kent Beck
 
-## I'm a husband, father of two boys and developer!!
-I'm Mikko from Finland, and I am a software engineer at Vaisala. I really enjoy learning languages and frameworks like React or Rust. I'm also a big advocate of Clean Code. Currently, I'm deeply focused on learning full stack development. In addition, the future plan is to get a solid grasp on AWS and Rust programming language. 
+I'm Mikko from Finland, and I am a software engineer at Vaisala. I really enjoy learning languages and frameworks like React or Rust. I'm also a big advocate of Clean Code. Currently, I'm deeply focused on Rust programming language. 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
