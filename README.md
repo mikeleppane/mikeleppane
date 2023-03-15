@@ -2,7 +2,7 @@
 
 > *\"I'm not a great programmer; I'm just a good programmer with great habits.\"*  -Kent Beck
 
-I'm Mikko from Finland, and I am a software engineer at Vaisala. I really enjoy learning languages and frameworks like React or Rust. I'm also a big advocate of Clean Code. Currently, I'm deeply focused on Rust programming language (you could say almost obsessed). 
+I'm Mikko from Finland, and I am a software engineer at Vaisala. I really enjoy learning new stuff and technologies. Currently, I'm deeply focused on Rust programming language (you could say almost obsessed). I'm also a big advocate of Clean Code.
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
