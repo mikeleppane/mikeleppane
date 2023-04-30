@@ -1,63 +1,38 @@
-### Hi there 👋. My name is Mikko.
+<h2 align="center"> Hi there 👋. My name is Mikko. 👨‍💻 </h2>
 
 > *\"I'm not a great programmer; I'm just a good programmer with great habits.\"*  -Kent Beck
 
-I'm Mikko from Finland, and I am a software engineer at Vaisala. I really enjoy learning new stuff and technologies. Currently, I'm deeply focused on Rust programming language (you could say almost obsessed). I'm also a big advocate of Clean Code.
-### Connect with me:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
-
-### Languages and Tools:
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][go]
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][c++]
-[<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />][rust]
-[<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][matlab]
-
-
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][graphql]
-[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][django]
-[<img align="left" alt="Qt" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" />][qt]
-[<img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />][redis]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
-[<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][kubernetes]
-[<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webstorm.svg' alt='webstorm' height='40'>](https://www.jetbrains.com/webstorm/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jetbrains.svg' alt='jetbrains' height='40'>](https://www.jetbrains.com/)
-
-<br />
-<br />
+I'm Mikko from Finland, and I am a software engineer at Vaisala. I really enjoy learning new stuff and technologies. Currently, I'm deeply focused on Rust programming language (you could say almost obsessed). I'm also a big advocate of Clean Code. 
 
 ---
-[linkedin]: https://www.linkedin.com/in/mikko-leppänen-05bb621a
-[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[typescript]: https://www.typescriptlang.org/
-[python]: https://www.python.org/
-[go]: https://golang.org/
-[c++]: https://isocpp.org/
-[rust]: https://www.rust-lang.org/
-[matlab]: https://www.mathworks.com/
-[react]: https://reactjs.org/
-[nodejs]: https://nodejs.org/en/
-[mongodb]: https://www.mongodb.com/
-[graphql]: https://graphql.org/
-[django]: https://www.djangoproject.com/
-[qt]: https://www.qt.io/
-[ubuntu]: https://ubuntu.com/
-[redis]: https://redis.io/
-[git]: https://git-scm.com/
-[webstorm]: https://www.jetbrains.com/webstorm/
-[docker]: https://www.docker.com/
-[kubernetes]: https://kubernetes.io/
+<h2 align="center"> Language Stats - 🌀 </h2>
 
 
+<p align="center">
+<a target="_blank" href="https://github.com/mikeleppane/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeleppane&show_icons=true&theme=radical" width="400" /></a>
+</p>
+
+---
+
+<h2 align="center"> Tech Stack - 🧰 </h2>
+<p align="center">
+<a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/> </a>
+<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust" width="60" height="60"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/> </a>
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="60" height="60"/> </a>
+<a href="https://www.jetbrains.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="60" height="60"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="60" height="60"/> </a>
+</p>
+
+---
+
+<h2 align="center"> Connect Me - 📫 </h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mikko-lepp%C3%A4nen-05bb621a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mleppan23@gmail.com?subject=Hello%20Mikko,%20From%20Your%20Github%20Page"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 
 
