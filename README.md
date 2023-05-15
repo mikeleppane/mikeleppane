@@ -19,6 +19,7 @@ I'm Mikko from Finland, and I am a software engineer at Vaisala. I really enjoy 
 <p align="center">
 <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/> </a>
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://github.com/HenningTimm/rust-bio-logo/blob/master/svg/bioferris.svg" alt="Rust" width="60" height="60"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="60" height="60"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/> </a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="60" height="60"/> </a>
 <a href="https://www.jetbrains.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="60" height="60"/> </a>
