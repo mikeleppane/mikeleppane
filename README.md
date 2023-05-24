@@ -8,9 +8,8 @@ I'm Mikko from Finland, and I am a software engineer at Vaisala. I really enjoy 
 ---
 <h2 align="center"> Language Stats - 🌀 </h2>
 
-
 <p align="center">
-<a target="_blank" href="https://github.com/mikeleppane/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeleppane&show_icons=true&theme=radical" width="400" /></a>
+<a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeleppane&show_icons=true&theme=radical&size_weight=1&count_weight=0.5" width="400" /></a>
 </p>
 
 ---
