@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there 👋. My name is Mikko. 👨‍💻 </h2>
+<h2 align="center"> Hey there 👋. I'm Mikko!. 👨‍💻 </h2>
 
 > *\"I'm not a great programmer; I'm just a good programmer with great habits.\"*  -Kent Beck
 
