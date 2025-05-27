@@ -37,6 +37,18 @@ I believe that great software is built on strong habits, clear communication, an
 
 ---
 
+<h2 align="center">🌍 Open Source Contributions</h2>
+<p align="center">
+  <a href="https://github.com/astral-sh/ruff" target="_blank"><img src="https://img.shields.io/badge/Ruff-astral--sh%2Fruff-blue?logo=python" alt="Ruff"/></a>
+  <a href="https://github.com/astral-sh/uv" target="_blank"><img src="https://img.shields.io/badge/uv-astral--sh%2Fuv-blueviolet?logo=python" alt="uv"/></a>
+  <a href="https://github.com/pytest-dev/pytest" target="_blank"><img src="https://img.shields.io/badge/pytest-pytest--dev%2Fpytest-yellow?logo=python" alt="pytest"/></a>
+  <a href="https://github.com/robotframework/robotframework" target="_blank"><img src="https://img.shields.io/badge/Robot%20Framework-robotframework%2Frobotframework-lightgrey?logo=python" alt="Robot Framework"/></a>
+  <a href="https://github.com/PyO3/pyo3" target="_blank"><img src="https://img.shields.io/badge/PyO3-PyO3%2Fpyo3-orange?logo=rust" alt="PyO3"/></a>
+  <a href="https://github.com/pydantic/pydantic" target="_blank"><img src="https://img.shields.io/badge/Pydantic-pydantic%2Fpydantic-green?logo=python" alt="Pydantic"/></a>
+</p>
+
+---
+
 <h2 align="center"> Connect Me - 📫 </h2>
 
 <p align="center">
