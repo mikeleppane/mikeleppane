@@ -1,9 +1,11 @@
 <h2 align="center"> Hey there 👋,  I'm Mikko! 👨‍💻 </h2>
 
-> *\"I'm not a great programmer; I'm just a good programmer with great habits.\"*  -Kent Beck
+> *\"The only way to go fast, is to go well."\"* –Robert C. Martin
 
+ Hi, I'm Mikko from Finland. I’m passionate about continuous learning, new technologies, and open source. My main programming languages are Rust and Python, which I use to build robust, maintainable, and scalable solutions.  
 
-I'm Mikko from Finland. I enjoy learning new stuff and technologies. I have a strong passion for Rust, Python, and Open Source. I'm also a big advocate of Clean Code. 
+I’m a strong advocate of Clean Code, Behavior-Driven Development (BDD), and Domain-Driven Design (DDD). These methodologies help me bridge the gap between business and technology, ensuring that software truly meets user needs and business goals. With over a decade of Python experience and several years working with Rust, I focus on writing code that is readable, simple, and easy to maintain. I enjoy leveraging Rust’s type system, safety, and performance features, as well as Python’s versatility for development and test automation.
+I believe that great software is built on strong habits, clear communication, and a commitment to quality.
 
 ---
 <h2 align="center"> Language Stats - 🌀 </h2>
